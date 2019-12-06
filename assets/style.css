@@ -31,3 +31,17 @@ h1 {
     height: 500px;
     background-color: #ffffff;
 }
+
+footer {
+    text-align: center;
+    background-color: #666666;
+    padding-top: 20px;
+    position: relative;
+    bottom: 10px;
+}
+
+#footer-text {
+    padding-top: 10px;
+    bottom: 0;
+    color: white;
+}
