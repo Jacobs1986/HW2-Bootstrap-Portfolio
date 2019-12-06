@@ -19,9 +19,15 @@ h1 {
     color: white;
 }
 
-#test {
+#maincontent {
     background-color: #dddddd;
     height: 700px;
     position: relative;
     top: -8px;
+    padding-top: 20px;
+}
+
+#subcontent {
+    height: 500px;
+    background-color: #ffffff;
 }
