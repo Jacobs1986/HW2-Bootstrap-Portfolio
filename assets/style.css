@@ -53,6 +53,15 @@ h1 {
     background-color: #ffffff;
 }
 
+h3 {
+    color: #4aaaa5;
+}
+
+#contentHeader {
+    margin-left: 15%;
+    margin-top: 10%;
+}
+
 footer {
     text-align: center;
     background-color: #666666;
