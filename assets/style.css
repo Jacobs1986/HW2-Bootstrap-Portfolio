@@ -2,12 +2,14 @@
     font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
+/*
 #topBar {
     border-style: solid;
     border-width: 5px;
     border-color: red;
     max-width: 1200px; 
 }
+*/
 
 a, 
 div, 
@@ -33,7 +35,9 @@ h1 {
 }
 
 #navigation {
-
+    position: relative;
+    top: 25px;
+    left: 2.5%
 }
 
 #maincontent {
