@@ -58,8 +58,12 @@ h3 {
 }
 
 #contentHeader {
-    margin-left: 15%;
-    margin-top: 10%;
+    border-bottom-style: groove;
+    padding-bottom: 8px;
+    width: 94%;
+    position: relative;
+    left: 4%;
+    top: 15px;
 }
 
 footer {
