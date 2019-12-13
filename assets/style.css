@@ -1,3 +1,4 @@
+h4, 
 .header {
     font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
@@ -27,7 +28,8 @@ a {
     padding-left: 0;
 }
 
-h1 {
+h1,
+h4 {
     background-color:#4aaaa5;
     text-align: center;
     padding: 10px 0;
