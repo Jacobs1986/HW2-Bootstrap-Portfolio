@@ -39,6 +39,41 @@ h4 {
     bottom: 37px;
 }
 
+@media only screen and (max-width: 768px) {
+    #maincontent {
+        height: 1744px;
+        width: 100%;
+    }
+
+    #subcontent {
+        height: 100%;
+        width: 100%;
+    }
+
+    img {
+        width: 75%;
+        margin: 0 auto;
+    }
+
+    #column1 {
+        left: 11.6%;
+    }
+
+    #column2 {
+        left: 12%;
+        margin-bottom: 3%;
+    }
+
+    h4 {
+        width: 70.9%
+    }
+
+    .photoID, 
+    .photoID2{
+        bottom: 3px;
+    }
+}
+
 @media only screen and (max-width: 640px) {
     #maincontent {
         height: 1744px;
