@@ -1,3 +1,15 @@
+#aboutContent {
+    margin-top: 2%;
+}
+
 #bioPic {
     width: 100%;
+    margin-left: 12%;
+}
+
+p {
+    margin-left: 3%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: red;
 }
