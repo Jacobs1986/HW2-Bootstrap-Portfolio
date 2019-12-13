@@ -21,3 +21,20 @@ img {
     top: 25px;
     left: 7%;
 }
+
+h4 {
+    background-color:#4aaaa5;
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+    width: 92.4%
+}
+.photoID {
+    position: absolute;
+    bottom: 3px;
+}
+
+.photoID2 {
+    position: absolute;
+    bottom: 37px;
+}
