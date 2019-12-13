@@ -1,3 +1,18 @@
 img {
-    width: 50%;
+    width: 100%;
+}
+
+#maincontent {
+    height: 924px;
+}
+
+#subcontent {
+    height: 885px;
+}
+
+#column1 {
+    position: relative;
+    top: 25px;
+    left: 4%;
+    margin-bottom: 3%;
 }
